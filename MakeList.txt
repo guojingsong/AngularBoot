@@ -4,5 +4,4 @@ cd AngularBoot
 
 ng generate application tools-application --routing=true --prefix=gjs --force=true
 
-
 ng generate library json-schema-form --skipInstall=true
